@@ -12,5 +12,3 @@ Currently, I'm knee-deep in the world of Arch Linux, trying to navigate its endl
 
 
 - 📫 how to Reach me (just don't): [kagebyte.github.io](https://kagebyte.github.io)
-
-[![Instagram](https://img.shields.io/badge/Instagram-the__anonymous__vip-red)](https://www.instagram.com/the_anonymous_vip/)
